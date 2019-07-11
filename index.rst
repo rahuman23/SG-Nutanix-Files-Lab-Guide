@@ -50,4 +50,4 @@ Prism Element IP address: 10.129.34.5
 
 Prism Username: Admin
 
-Password: Nut@n!xS5
+Password: Nut@n1xsg
